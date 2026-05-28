@@ -1,0 +1,11 @@
+node_modules
+.next
+public/sw.js
+public/sw.js.map
+public/swe-worker-*.js
+public/swe-worker-*.js.map
+out
+.env.local
+.env*.local
+*.log
+.DS_Store

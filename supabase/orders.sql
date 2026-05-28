@@ -1,0 +1,2 @@
+-- Deprecated: orders are now included in supabase/schema.sql
+-- Run supabase/schema.sql instead (single file with all tables + RLS + seed).

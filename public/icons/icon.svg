@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Nanay Nely">
+  <rect width="512" height="512" rx="96" fill="#0a1505"/>
+  <rect x="32" y="32" width="448" height="448" rx="80" fill="#111f06" stroke="#f4c060" stroke-width="8"/>
+  <circle cx="256" cy="210" r="72" fill="#f4c060" opacity="0.25"/>
+  <text x="256" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="132" font-weight="700" fill="#f4c060">NN</text>
+  <text x="256" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#a8d48a">Lambanog</text>
+</svg>
